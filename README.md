@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmed Adel
-- 👀 I’m interested in to be Software Developer
-- 🌱 I’m currently learning how to Web Developming
+- 👀 I am interested in becoming a software developer
+- 🌱 I am currently learning how to do Web development
 - 💞️ I’m looking to collaborate on to Work With You
 - 📫 How to reach me ...
 
